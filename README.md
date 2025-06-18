@@ -11,7 +11,8 @@
 - Backend Development  
 - React & React Native
 
-📧 Reach me at **darishaansarii@gmail.com**
+📧 Reach me here:  
+[![Gmail](https://img.shields.io/badge/Gmail-darishaansarii@gmail.com-red?style=flat&logo=gmail)](mailto:darishaansarii@gmail.com)
 
 ---
 
@@ -31,7 +32,7 @@ Dynamic one-page educational site built for a real-world client. Created for the
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/SRC/)
 
 ### 🏨 Luxury Hotel Clone  
-A modern frontend website cloned during a hackathon challenge at Jawan Pakistan. Focused on visual appeal and layout precision. <br>
+A modern frontend website cloned during a hackathon challenge at Jawan Pakistan. Focused on visual appeal and layout precision.  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/luxuryHotelClone/)
 
 ---
@@ -57,11 +58,25 @@ Gained hands-on experience in teamwork, deadlines, and working in a professional
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Currently Learning & Goals
 
-![Darisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darishaansarii&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darishaansarii&layout=compact&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darishaansarii&theme=dracula)
+🎯 **Currently Learning:**  
+- React.js (Component-based architecture, Hooks, Routing)  
+- React Native (for mobile app development)  
+- Node.js & Express (server-side JavaScript)  
+- MongoDB (NoSQL database integration)  
+- Firebase Authentication & Realtime Database
+
+🚀 **Short-Term Goals:**  
+- Build and deploy a full-stack MERN application  
+- Strengthen problem-solving with JavaScript  
+- Explore UI/UX best practices in frontend development  
+- Participate in open-source projects and hackathons
+
+🌱 **Long-Term Vision:**  
+- Become a confident Full Stack Developer  
+- Contribute to impactful software solutions  
+- Keep learning, evolving, and helping others grow  
 
 ---
 
@@ -69,7 +84,7 @@ Gained hands-on experience in teamwork, deadlines, and working in a professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darishaansarii/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/darishaansarii)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:darishaansarii@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-darishaansarii@gmail.com-red?style=flat&logo=gmail)](mailto:darishaansarii@gmail.com)
 
 ---
 
