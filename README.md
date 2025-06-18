@@ -11,8 +11,6 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 <table>
   <tr>
     <td width="60%">
@@ -25,7 +23,6 @@
 🔍 I love building beautiful user interfaces, exploring new tech, and solving real-world problems through code.
 
 📚 I'm always learning, always improving — whether it's new frontend frameworks or backend logic!
-
     </td>
     <td width="40%" align="center">
       <img src="./about.gif" alt="Darisha's Intro GIF" width="100%" />
