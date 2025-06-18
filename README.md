@@ -78,16 +78,18 @@ Frontend design project developed in a hackathon challenge.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📊 Most Used Languages  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darishaansarii&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darishaansarii&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+</p>
 ---
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=darishaansarii&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darishaansarii&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darishaansarii&theme=dark" alt="GitHub Summary Card" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darishaansarii&theme=dark" alt="GitHub Summary Card" />
+</p>
 ---
 
 ## 📬 Let's Connect
@@ -106,8 +108,9 @@ Frontend design project developed in a hackathon challenge.
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darishaansarii&theme=tokyonight" alt="Summary" />
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darishaansarii&theme=tokyonight" alt="Summary" />
+</p>
 ---
 
 🚀 *Always excited to grow, build, and collaborate on meaningful projects!*
