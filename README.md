@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Darisha Ansari!
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30" height="30" /> 
+  Hi, I'm Darisha Ansari!
+</h1>
 
 <p align="center">
   <img src="./banner.png" alt="Darisha Ansari Banner" width="100%" />
@@ -23,7 +26,8 @@
 - ⚛️ **React & React Native** for building scalable frontend and mobile apps
 - 🔗 Integrating APIs, real-time databases (Firebase), and auth flows
 
-🎯 **Goal:** To become a confident MERN Stack Developer, work on real-world freelance/remote projects, and build a solid tech career 🚀
+🚧 Building a strong portfolio of projects and working on freelance client work.  
+🎯 **Goal:** To become a confident MERN Stack Developer, contribute to open-source, and get hired remotely or freelance globally 🚀
 
 ---
 
@@ -58,10 +62,10 @@ Frontend design project developed in a hackathon challenge.
 ## 💼 Experience
 
 ### 🧑‍💻 Frontend Development Intern – EFLEX Software House (Remote)
-- 👩‍💻 Collaborated remotely in a development team environment  
-- 🚀 Learned about real-time communication, Git workflow, and project lifecycle  
-- 💻 Focused on writing clean and responsive UI code using HTML/CSS/JS  
-- 🧠 Gained exposure to professional software practices and agile methodologies
+- 👩‍💻 Collaborated remotely in a real-world development team  
+- 🚀 Gained hands-on experience with Git, communication tools, and Agile methods  
+- 💻 Built responsive UI with HTML/CSS/JS for internal tools and client-facing apps  
+- 🧠 Learned about project planning, team dynamics, and client feedback loops
 
 ---
 
@@ -80,6 +84,7 @@ Frontend design project developed in a hackathon challenge.
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darishaansarii&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
+
 ---
 
 ## 📈 GitHub Stats
@@ -89,6 +94,7 @@ Frontend design project developed in a hackathon challenge.
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darishaansarii&theme=dark" alt="GitHub Summary Card" />
 </p>
+
 ---
 
 ## 📬 Let's Connect
