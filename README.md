@@ -48,7 +48,11 @@
 
 ## 💻 Web Development Projects
 
-### 🔍 GitHub User Finder App  
+<table>
+  <tr>
+    <td width="50%">
+
+      ### 🔍 GitHub User Finder App  
 Explore any GitHub user's profile using GitHub API.  
 <a href="https://darishaansarii.github.io/github_user_finder_app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
@@ -59,7 +63,9 @@ An interactive JavaScript-based quiz built for learning and fun.
 <a href="https://darishaansarii.github.io/quizApp/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
-
+</td>
+    <td width="50%" align="center">
+      
 ### 🏫 Client Website – SRC (Sir Rehan’s Collegiate)  
 A dynamic one-page educational website built as a real client project.  
 <a href="https://darishaansarii.github.io/SRC/" target="_blank">
@@ -71,6 +77,9 @@ Frontend design project developed in a hackathon challenge.
 <a href="https://darishaansarii.github.io/luxuryHotelClone/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
+</td>
+  </tr>
+</table>
 
 ---
 
