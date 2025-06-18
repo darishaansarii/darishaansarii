@@ -31,7 +31,8 @@ Dynamic one-page educational site built for a real-world client. Created for the
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/SRC/)
 
 ### 🏨 Luxury Hotel Clone  
-A modern website cloned during a hackathon challenge at Jawan Pakistan. Focused on visual appeal and layout precision.
+A modern frontend website cloned during a hackathon challenge at Jawan Pakistan. Focused on visual appeal and layout precision.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/luxuryHotelClone/)
 
 ---
 
@@ -53,7 +54,6 @@ Gained hands-on experience in teamwork, deadlines, and working in a professional
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
