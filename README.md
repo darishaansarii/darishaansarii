@@ -31,7 +31,7 @@ Dynamic one-page educational site built for a real-world client. Created for the
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/SRC/)
 
 ### 🏨 Luxury Hotel Clone  
-A modern frontend website cloned during a hackathon challenge at Jawan Pakistan. Focused on visual appeal and layout precision.
+A modern frontend website cloned during a hackathon challenge at Jawan Pakistan. Focused on visual appeal and layout precision. <br>
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/luxuryHotelClone/)
 
 ---
