@@ -18,37 +18,37 @@
 
 ✨ Currently diving deep into:
 
-- ⚙️ **Advanced JavaScript** – mastering concepts like closures, async/await, and ES6+
+- ⚙️ **Advanced JavaScript** – mastering ES6+, closures, promises, and async/await
 - 🛠️ **Backend with Node.js & Express**
-- ⚛️ **Frontend mastery with React** and soon **React Native**
-- 💡 Learning how to integrate **real-time databases** and **APIs** to make dynamic apps
+- ⚛️ **React & React Native** for building scalable frontend and mobile apps
+- 🔗 Integrating APIs, real-time databases (Firebase), and auth flows
 
-📅 **Goal:** To become a job-ready MERN Stack Developer and build interactive, scalable applications that solve real-world problems!
+🎯 **Goal:** To become a confident MERN Stack Developer, work on real-world freelance/remote projects, and build a solid tech career 🚀
 
 ---
 
 ## 💻 Web Development Projects
 
 ### 🔍 GitHub User Finder App  
-Explore any GitHub user's profile using GitHub API. A beginner-level project that helped me learn API calls and responsive layouts.  
+Explore any GitHub user's profile using GitHub API.  
 <a href="https://darishaansarii.github.io/github_user_finder_app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
 
 ### ❓ Quiz App  
-A JavaScript-based quiz built as part of my Module A final assessment. Interactive, fun, and mobile-friendly!  
+An interactive JavaScript-based quiz built for learning and fun.  
 <a href="https://darishaansarii.github.io/quizApp/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
 
 ### 🏫 Client Website – SRC (Sir Rehan’s Collegiate)  
-Dynamic one-page educational site built for a real-world client during my FMP. Successfully delivered with full client satisfaction.  
+A dynamic one-page educational website built as a real client project.  
 <a href="https://darishaansarii.github.io/SRC/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
 
 ### 🏨 Luxury Hotel Clone  
-Cloned during a Hackathon at Jawan Pakistan. Focused on layout precision and frontend visual design.  
+Frontend design project developed in a hackathon challenge.  
 <a href="https://darishaansarii.github.io/luxuryHotelClone/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
@@ -58,10 +58,10 @@ Cloned during a Hackathon at Jawan Pakistan. Focused on layout precision and fro
 ## 💼 Experience
 
 ### 🧑‍💻 Frontend Development Intern – EFLEX Software House (Remote)
-- 🚀 Collaborated remotely in a fast-paced software team environment  
-- 🧠 Learned best practices in Git workflows, version control, and clean UI design  
-- 💬 Communicated project progress and resolved bugs alongside professional developers  
-- 💼 Gained valuable insights into real-world workflows, sprint planning, and frontend standards
+- 👩‍💻 Collaborated remotely in a development team environment  
+- 🚀 Learned about real-time communication, Git workflow, and project lifecycle  
+- 💻 Focused on writing clean and responsive UI code using HTML/CSS/JS  
+- 🧠 Gained exposure to professional software practices and agile methodologies
 
 ---
 
@@ -76,6 +76,17 @@ Cloned during a Hackathon at Jawan Pakistan. Focused on layout precision and fro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 📊 Most Used Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darishaansarii&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+
+---
+
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=darishaansarii&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darishaansarii&theme=dark" alt="GitHub Summary Card" />
 
 ---
 
@@ -92,6 +103,10 @@ Cloned during a Hackathon at Jawan Pakistan. Focused on layout precision and fro
 <a href="mailto:darishaansarii@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
 </a>
+
+---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darishaansarii&theme=tokyonight" alt="Summary" />
 
 ---
 
