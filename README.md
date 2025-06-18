@@ -77,7 +77,6 @@ Frontend design project developed in a hackathon challenge.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 📊 Most Used Languages  
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darishaansarii&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
