@@ -51,7 +51,6 @@
 <table>
   <tr>
     <td width="50%">
-
 ### 🔍 GitHub User Finder App  
 Explore any GitHub user's profile using GitHub API.  
 <a href="https://darishaansarii.github.io/github_user_finder_app/" target="_blank">
