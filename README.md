@@ -105,11 +105,10 @@ Frontend design project developed in a hackathon challenge.
   <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
----
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darishaansarii&theme=tokyonight" alt="Summary" />
 </p>
+
 ---
 
 🚀 *Always excited to grow, build, and collaborate on meaningful projects!*
