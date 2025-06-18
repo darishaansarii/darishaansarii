@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Darisha Ansari Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Darisha Ansari!
 
 ## 🚀 About Me
