@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30" height="30" /> 
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="50" height="50" /> 
   Hi, I'm Darisha Ansari!
 </h1>
 
