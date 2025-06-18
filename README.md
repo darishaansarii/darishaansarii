@@ -52,7 +52,7 @@
   <tr>
     <td width="50%">
 
-      ### 🔍 GitHub User Finder App  
+### 🔍 GitHub User Finder App  
 Explore any GitHub user's profile using GitHub API.  
 <a href="https://darishaansarii.github.io/github_user_finder_app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
@@ -64,7 +64,7 @@ An interactive JavaScript-based quiz built for learning and fun.
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
 </td>
-    <td width="50%" align="center">
+    <td width="50%">
       
 ### 🏫 Client Website – SRC (Sir Rehan’s Collegiate)  
 A dynamic one-page educational website built as a real client project.  
