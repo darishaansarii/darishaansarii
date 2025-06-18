@@ -1,46 +1,44 @@
 # 👋 Hi, I'm Darisha Ansari!
 
 ## 🚀 About Me
-👩🏻‍💻 Frontend Developer | Passionate Learner | Learning MERN Stack Development
+👩🏻‍💻 A passionate Frontend Developer | Lifelong Learner | Exploring MERN Stack Development
 
-🎓 I’ve taken a gap year (2024–25) and used this valuable time to grow as a developer. I’ve completed the **MERN Stack Development (Module A)** and am currently enrolled in **Module B** at **Jawan Pakistan**.
+🎓 Currently on a productive gap year after completing Intermediate. I'm actively pursuing my MERN Stack Development journey through Jawan Pakistan.  
+✅ Completed **Module A**, now enrolled in **Module B**.
 
-💡 Currently learning:  
-➡️ Advanced JavaScript  
-➡️ Moving into Backend Development  
-➡️ React, React Native & Full MERN Stack in the upcoming months  
+💭 Currently learning:  
+- Advanced JavaScript  
+- Backend Development  
+- React & React Native
 
 📧 Reach me at **darishaansarii@gmail.com**
 
 ---
 
-## 💻 Projects & Work
+## 💻 Web Development Projects
 
 ### 🔍 GitHub User Finder App  
-A simple yet effective app that fetches GitHub user data using the GitHub API. This project helped me understand API calls and responsive layouts.  
-🔗 [Live Demo](https://darishaansarii.github.io/github_user_finder_app/)  
-🛠️ HTML, CSS, JavaScript (API + Responsive Design)
+Explore any GitHub user's profile using GitHub API. A beginner-level project where I learned API calls and responsive UI design.  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/github_user_finder_app/)
 
 ### ❓ Quiz App  
-One of my first projects using DOM and basic JavaScript logic—built as part of Jawan Pakistan’s Module A final task.  
-🔗 [Live Demo](https://darishaansarii.github.io/quizApp/)  
-🛠️ HTML, CSS, JavaScript
+A simple JavaScript-based quiz that tests your knowledge interactively. Created as part of Jawan Pakistan’s Module A final requirements.  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/quizApp/)
 
-### 🏫 Client Website – SRC (Sir Rehan's Collegiate)  
-A dynamic one-page website built for an educational client as my Final Module Project (FMP) in Jawan Pakistan. I delivered exactly what the client wanted—with full satisfaction.  
-🔗 [Live Demo](https://darishaansarii.github.io/SRC/)  
-🛠️ HTML, CSS, JS, Bootstrap
+### 🏫 Client Website – SRC (Sir Rehan’s Collegiate)  
+Dynamic one-page educational site built for a real-world client. Created for the Final Module Project (FMP) in MERN Stack Module A.  
+✅ Delivered successfully with full client satisfaction!  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=flat&logo=github)](https://darishaansarii.github.io/SRC/)
 
-### 🏨 Luxury Hotel Clone (Hackathon Project)  
-Built during a hackathon in Jawan Pakistan (Module A) as a challenge to clone a premium UI layout.  
-🛠️ HTML, CSS, JS
+### 🏨 Luxury Hotel Clone  
+A modern website cloned during a hackathon challenge at Jawan Pakistan. Focused on visual appeal and layout precision.
 
 ---
 
-## 🌐 Internship Experience
+## 💼 Experience
 
-👩‍💼 **Frontend Developer Intern** – *EFLEX Software House* (Remote)  
-Learned how to work collaboratively in a professional, real-world development environment.
+👩‍💼 **Frontend Development Intern – EFLEX Software House (Remote)**  
+Gained hands-on experience in teamwork, deadlines, and working in a professional software environment.
 
 ---
 
@@ -49,7 +47,7 @@ Learned how to work collaboratively in a professional, real-world development en
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -61,18 +59,18 @@ Learned how to work collaboratively in a professional, real-world development en
 
 ## 📊 GitHub Stats
 
-![Darisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darishaansarii&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darishaansarii&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darishaansarii&theme=tokyonight)
+![Darisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darishaansarii&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darishaansarii&layout=compact&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darishaansarii&theme=dracula)
 
 ---
 
-## 🔗 Connect With Me
+## ➡️ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darishaansarii/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/darishaansarii)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:darishaansarii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darishaansarii/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/darishaansarii)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:darishaansarii@gmail.com)
 
 ---
 
-🚀 *Open to learning, building, and collaborating on impactful projects – one step at a time!*
+🚀 *Always excited to grow, build, and collaborate on meaningful projects!*
