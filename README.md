@@ -66,6 +66,7 @@ An interactive JavaScript-based quiz built for learning and fun.
 </td>
     <td width="50%">
       
+
 ### 🏫 Client Website – SRC (Sir Rehan’s Collegiate)  
 A dynamic one-page educational website built as a real client project.  
 <a href="https://darishaansarii.github.io/SRC/" target="_blank">
