@@ -13,9 +13,7 @@
 
 <table>
   <tr>
-    
     <td width="60%">
-
       👩🏻‍💻 A passionate Frontend Developer | Lifelong Learner | Exploring MERN Stack Development
       
       🎓 Currently on a productive gap year after completing Intermediate. I'm actively pursuing my MERN Stack Development journey through **Jawan Pakistan**.  
@@ -25,18 +23,14 @@
       
       📚 I'm always learning, always improving — whether it's new frontend frameworks or backend logic!
     </td>
-    
     <td width="40%" align="center">
-
         <video width="100%" controls>
           <source src="about.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
-
         <br>
         <strong>🎬 My Short Introduction</strong>
     </td>
-    
   </tr>
 </table>
 
