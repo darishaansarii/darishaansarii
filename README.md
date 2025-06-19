@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-<table style="width: 100%;">
+<table>
   <tr>
-    <td style="width: 60%; vertical-align: top; padding: 10px;">
+    <td width="60%">
 
 👩🏻‍💻 A passionate Frontend Developer | Lifelong Learner | Exploring MERN Stack Development
 
@@ -23,10 +23,9 @@
 🔍 I love building beautiful user interfaces, exploring new tech, and solving real-world problems through code.
 
 📚 I'm always learning, always improving — whether it's new frontend frameworks or backend logic!
-
     </td>
-    <td style="width: 40%; text-align: center; padding: 10px;">
-      <img src="./about.gif" alt="Darisha's Intro GIF" style="max-width: 100%; height: auto;" />
+    <td width="40%" align="center">
+      <img src="./about.gif" alt="Darisha's Intro GIF" width="100%" />
     </td>
   </tr>
 </table>
@@ -37,9 +36,9 @@
 
 ✨ Currently diving deep into:
 
-- ⚙️ **Advanced JavaScript** – mastering ES6+, closures, promises, and async/await  
-- 🛠️ **Backend with Node.js & Express**  
-- ⚛️ **React & React Native** for building scalable frontend and mobile apps  
+- ⚙️ **Advanced JavaScript** – mastering ES6+, closures, promises, and async/await
+- 🛠️ **Backend with Node.js & Express**
+- ⚛️ **React & React Native** for building scalable frontend and mobile apps
 - 🔗 Integrating APIs, real-time databases (Firebase), and auth flows
 
 🚧 Building a strong portfolio of projects and working on freelance client work.  
@@ -49,9 +48,9 @@
 
 ## 💻 Web Development Projects
 
-<table style="width: 100%;">
+<table>
   <tr>
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
+    <td width="50%">
 
 ### 🔍 GitHub User Finder App  
 Explore any GitHub user's profile using GitHub API.  
@@ -64,9 +63,9 @@ An interactive JavaScript-based quiz built for learning and fun.
 <a href="https://darishaansarii.github.io/quizApp/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
-
-    </td>
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
+</td>
+    <td width="50%">
+      
 
 ### 🏫 Client Website – SRC (Sir Rehan’s Collegiate)  
 A dynamic one-page educational website built as a real client project.  
@@ -79,8 +78,7 @@ Frontend design project developed in a hackathon challenge.
 <a href="https://darishaansarii.github.io/luxuryHotelClone/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
-
-    </td>
+</td>
   </tr>
 </table>
 
@@ -145,3 +143,6 @@ Frontend design project developed in a hackathon challenge.
 ---
 
 🚀 *Always excited to grow, build, and collaborate on meaningful projects!*
+
+
+ChatGPT said:
