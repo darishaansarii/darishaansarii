@@ -145,4 +145,3 @@ Frontend design project developed in a hackathon challenge.
 🚀 *Always excited to grow, build, and collaborate on meaningful projects!*
 
 
-ChatGPT said:
