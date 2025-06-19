@@ -11,24 +11,18 @@
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-
-👩🏻‍💻 A passionate Frontend Developer | Lifelong Learner | Exploring MERN Stack Development
-
-🎓 Currently on a productive gap year after completing Intermediate. I'm actively pursuing my MERN Stack Development journey through **Jawan Pakistan**.  
-✅ Completed **Module A**, now enrolled in **Module B**.
-
-🔍 I love building beautiful user interfaces, exploring new tech, and solving real-world problems through code.
-
-📚 I'm always learning, always improving — whether it's new frontend frameworks or backend logic!
-    </td>
-    <td width="40%" align="center">
-      <img src="./about.gif" alt="Darisha's Intro GIF" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 1; min-width: 280px; max-width: 600px; padding: 10px;">
+    <p>👩🏻‍💻 A passionate Frontend Developer | Lifelong Learner | Exploring MERN Stack Development</p>
+    <p>🎓 Currently on a productive gap year after completing Intermediate. Actively pursuing my MERN Stack Development journey through <strong>Jawan Pakistan</strong>.<br>
+    ✅ Completed <strong>Module A</strong>, now enrolled in <strong>Module B</strong>.</p>
+    <p>🔍 I love building beautiful user interfaces, exploring new tech, and solving real-world problems through code.</p>
+    <p>📚 I'm always learning, always improving — whether it's new frontend frameworks or backend logic!</p>
+  </div>
+  <div style="flex: 1; min-width: 280px; max-width: 400px; padding: 10px;" align="center">
+    <img src="./about.gif" alt="Darisha's Intro GIF" width="100%" />
+  </div>
+</div>
 
 ---
 
@@ -36,9 +30,9 @@
 
 ✨ Currently diving deep into:
 
-- ⚙️ **Advanced JavaScript** – mastering ES6+, closures, promises, and async/await
-- 🛠️ **Backend with Node.js & Express**
-- ⚛️ **React & React Native** for building scalable frontend and mobile apps
+- ⚙️ **Advanced JavaScript** – mastering ES6+, closures, promises, and async/await  
+- 🛠️ **Backend with Node.js & Express**  
+- ⚛️ **React & React Native** for building scalable frontend and mobile apps  
 - 🔗 Integrating APIs, real-time databases (Firebase), and auth flows
 
 🚧 Building a strong portfolio of projects and working on freelance client work.  
@@ -48,39 +42,39 @@
 
 ## 💻 Web Development Projects
 
-<table>
-  <tr>
-    <td width="50%">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-### 🔍 GitHub User Finder App  
-Explore any GitHub user's profile using GitHub API.  
-<a href="https://darishaansarii.github.io/github_user_finder_app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
-</a>
+  <!-- Project Column 1 -->
+  <div style="flex: 1; min-width: 280px; max-width: 400px; padding: 10px;">
+    <h3>🔍 GitHub User Finder App</h3>
+    <p>Explore any GitHub user's profile using GitHub API.</p>
+    <a href="https://darishaansarii.github.io/github_user_finder_app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
+    </a>
 
-### ❓ Quiz App  
-An interactive JavaScript-based quiz built for learning and fun.  
-<a href="https://darishaansarii.github.io/quizApp/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
-</a>
-</td>
-    <td width="50%">
-      
+    <h3>❓ Quiz App</h3>
+    <p>An interactive JavaScript-based quiz built for learning and fun.</p>
+    <a href="https://darishaansarii.github.io/quizApp/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
+    </a>
+  </div>
 
-### 🏫 Client Website – SRC (Sir Rehan’s Collegiate)  
-A dynamic one-page educational website built as a real client project.  
-<a href="https://darishaansarii.github.io/SRC/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
-</a>
+  <!-- Project Column 2 -->
+  <div style="flex: 1; min-width: 280px; max-width: 400px; padding: 10px;">
+    <h3>🏫 Client Website – SRC</h3>
+    <p>A dynamic one-page educational website built as a real client project.</p>
+    <a href="https://darishaansarii.github.io/SRC/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
+    </a>
 
-### 🏨 Luxury Hotel Clone  
-Frontend design project developed in a hackathon challenge.  
-<a href="https://darishaansarii.github.io/luxuryHotelClone/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
-</a>
-</td>
-  </tr>
-</table>
+    <h3>🏨 Luxury Hotel Clone</h3>
+    <p>Frontend design project developed in a hackathon challenge.</p>
+    <a href="https://darishaansarii.github.io/luxuryHotelClone/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github" />
+    </a>
+  </div>
+
+</div>
 
 ---
 
