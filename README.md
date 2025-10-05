@@ -17,7 +17,7 @@
 
 👩🏻‍💻 A passionate Frontend Developer | Lifelong Learner | Exploring MERN Stack Development
 
-🎓 Currently on a productive gap year after completing Intermediate. I'm actively pursuing my MERN Stack Development journey through **Jawan Pakistan**.  
+🎓 Currently doing BSCS from Dawood University of Engineering & Technology. I'm actively pursuing my MERN Stack Development journey through **Jawan Pakistan**.  
 ✅ Completed **Module A**, now enrolled in **Module B**.
 
 🔍 I love building beautiful user interfaces, exploring new tech, and solving real-world problems through code.
