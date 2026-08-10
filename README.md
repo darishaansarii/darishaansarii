@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="./Darisha updated banner.png" alt="Darisha Ansari Banner" width="100%" />
+  <img src="./banner_img.png" alt="Darisha Ansari Banner" width="100%" />
 </p>
 
 ---
